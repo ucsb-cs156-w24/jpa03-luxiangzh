@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-luxiangzh
 
 Running at: <https://jpa03-luxiangzh.dokku-12.cs.ucsb.edu>
 
